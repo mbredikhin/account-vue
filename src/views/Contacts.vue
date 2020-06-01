@@ -29,7 +29,7 @@
           >
         </button>
       </div>
-      <div class="pt-2 overflow-auto">
+      <div class="pt-2 overflow-auto h-64">
         <div
           v-for="contact in contactsByName"
           :key="contact.id"
