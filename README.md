@@ -1,24 +1,34 @@
 # account-vue
 
-## Project setup
+Тестовое задание на вакансию frontend-разработчика в Takeoff Staff.
+
+Личный кабинет (авторизация, контакты);
+
+## Установка
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Dev-сервер
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Билд
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Для входа можете использовать следующие учетные данные:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+email: Aurelie.Lindgren5@gmail.com <br>
+password: RxOYHacUheCZSBv
+
+email: Hortense.Lowe@hotmail.com <br>
+password: RxOYHacUheCZSBv
+
+email: Henriette65@yahoo.com <br>
+password: vZR7ndf3tDaMkn4
